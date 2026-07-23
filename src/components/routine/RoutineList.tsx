@@ -1,5 +1,4 @@
 import type { Pet, Routine } from "../../types";
-import { getDayLabel } from "../../utils/date";
 
 interface RoutineListProps {
   routines: Routine[];
